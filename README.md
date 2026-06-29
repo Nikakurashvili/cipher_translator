@@ -22,7 +22,7 @@ with the "mirror" vowel: a↔u, e↔o, i↔i (stays). Case-sensitive
 
 Chunk & Reverse — 
 split the result into chunks of 4 characters, 
-# reverse each chunk, then join them back with a -.
+reverse each chunk, then join them back with a -.
 
 Checksum Append — append #XY at the end where X = count of 
 letters, Y = count of non-letter/non-space characters in the 
